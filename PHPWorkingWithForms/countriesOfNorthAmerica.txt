@@ -1,0 +1,33 @@
+Bahamas|
+Antigua-Barbuda|
+Barbados|
+Belize|
+Bermuda|
+British-Virgin-Islands|
+Canada|
+Dominica|
+Greenland|
+Grenada|
+Guadeloupe|
+Guatemala|
+Guernsey|
+Haiti|
+Honduras|
+Cayman Islands|
+El Salvador|
+Falkland Islands|
+Virgin Islands|
+Jamaica|
+Jersey|
+Martinique|
+Mexico|
+Netherlands Antilles|
+Nicaragua|
+Panama|
+Puerto Rico|
+St. Kitts and Nevis|
+St. Lucia|
+Saint Vincent Grenadines|
+Trinidad And Tobabgo|
+Turks And Caicos Islands|
+United States Of America|

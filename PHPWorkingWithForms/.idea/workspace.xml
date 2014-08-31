@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f64c5442-a7ac-4262-8e92-00e09bca9302" name="Default" comment="" />
+    <ignored path="PHPWorkingWithForms.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="PHPWorkingWithForms" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="04_HTMLTagsCounter" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04_HTMLTagsCounter">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="29" selection-start="346" selection-end="346" vertical-scroll-proportion="9.153846" vertical-offset="459" max-vertical-offset="1088">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05_CVGenerator.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05_CVGenerator.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="117" column="40" selection-start="3789" selection-end="3789" vertical-scroll-proportion="11.730769" vertical-offset="2294" max-vertical-offset="4896">
+              <folding>
+                <marker date="1408558535699" expanded="true" signature="4083:4141" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="9172:10111" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="9172:9552" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="9172:9451" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="9172:10220" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="9172:9451" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="9259:9552" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="9259:9451" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="9338:9451" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="9372:9451" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10257:10882" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10257:11010" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10257:10960" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10257:10882" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10257:10880" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10257:10959" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10257:10880" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10257:10880" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10257:10292" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10257:10882" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10341:10782" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10805:10960" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10805:10960" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10805:10959" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10805:10882" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10805:10882" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10805:10882" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10805:10882" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10805:10880" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10805:10880" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10805:10880" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10805:10880" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10805:10838" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10880:10965" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10880:10965" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10880:10965" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10880:10965" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10880:10960" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10880:10960" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10880:10959" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10880:10882" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10880:10882" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10880:10882" placeholder="..." />
+                <marker date="1408558535699" expanded="true" signature="10880:10882" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06_ComboBox.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/06_ComboBox.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="6" selection-start="1306" selection-end="1306" vertical-scroll-proportion="0.29565218" vertical-offset="459" max-vertical-offset="1819">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="countriesOfSouthAmerica.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/countriesOfSouthAmerica.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="18" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="countriesOfNorthAmerica.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/countriesOfNorthAmerica.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="25" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="646">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="countriesOfAsia.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/countriesOfAsia.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="5" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0" vertical-offset="536" max-vertical-offset="867">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="countriesOfEuropa.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/countriesOfEuropa.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="9" selection-start="229" selection-end="229" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="850">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="countriesOfAfrica.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/countriesOfAfrica.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="58" column="14" selection-start="588" selection-end="588" vertical-scroll-proportion="0.0" vertical-offset="179" max-vertical-offset="1122">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/PrintTags.php" />
+        <option value="$PROJECT_DIR$/MostFrequentTag.php" />
+        <option value="$PROJECT_DIR$/01_PrintTags.php" />
+        <option value="$PROJECT_DIR$/02-MostFrequentTag.php" />
+        <option value="$PROJECT_DIR$/03_CalculateInterest.php" />
+        <option value="$PROJECT_DIR$/SquareRootSum.php" />
+        <option value="$PROJECT_DIR$/countriesOfNorthAmerica.txt" />
+        <option value="$PROJECT_DIR$/countriesOfSouthAmerica.txt" />
+        <option value="$PROJECT_DIR$/countriesOfAfrica.txt" />
+        <option value="$PROJECT_DIR$/countriesOfAsia.txt" />
+        <option value="$PROJECT_DIR$/countriesOfEuropa.txt" />
+        <option value="$PROJECT_DIR$/HTMLTagsCounter.php" />
+        <option value="$PROJECT_DIR$/04_HTMLTagsCounter" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/05_CVGenerator.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/06_ComboBox.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <option name="servers">
+      <server host="Localhost" name="php" use_path_mappings="true" />
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="php" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHPWorkingWithForms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHPWorkingWithForms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHPWorkingWithForms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="Configurable.PHP.Servers" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.test.html">
+    <configuration default="false" name="05_CVGenerator.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/05_CVGenerator.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test.php" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="http://localhost:63342/PHPWorkingWithForms/test.php">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/test.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="04_HTMLTagsCounter" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/04_HTMLTagsCounter">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test.html" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="http://localhost:63342/PHPWorkingWithForms/test.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.05_CVGenerator.php" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.test.php" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.test.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.04_HTMLTagsCounter" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.04_HTMLTagsCounter" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.test.php" />
+        <item index="3" class="java.lang.String" itemvalue="PHP Script.05_CVGenerator.php" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.test.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f64c5442-a7ac-4262-8e92-00e09bca9302" name="Default" comment="" />
+      <created>1408276121041</created>
+      <updated>1408276121041</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22734138" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13050571" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38336053" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2805873" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38336053" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38336053" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22432025" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14845024" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="32" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/04_HTMLTagsCounter">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="40" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1088">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_CVGenerator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="161" column="64" selection-start="5506" selection-end="5506" vertical-scroll-proportion="0.0" vertical-offset="2594" max-vertical-offset="4318">
+          <folding>
+            <marker date="1408558535699" expanded="true" signature="4083:4141" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="9172:10111" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="9172:9552" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="9172:9451" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="9172:10220" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="9172:9451" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="9259:9552" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="9259:9451" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="9338:9451" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="9372:9451" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10257:10882" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10257:11010" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10257:10960" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10257:10882" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10257:10880" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10257:10959" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10257:10880" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10257:10880" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10257:10292" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10257:10882" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10341:10782" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10805:10960" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10805:10960" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10805:10959" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10805:10882" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10805:10882" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10805:10882" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10805:10882" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10805:10880" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10805:10880" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10805:10880" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10805:10880" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10805:10838" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10880:10965" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10880:10965" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10880:10965" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10880:10965" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10880:10960" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10880:10960" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10880:10959" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10880:10882" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10880:10882" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10880:10882" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10880:10882" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_ComboBox.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="60" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="1377">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/countriesOfSouthAmerica.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="8" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="391">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/countriesOfNorthAmerica.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="25" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/countriesOfAsia.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="5" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="867">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/countriesOfEuropa.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="9" selection-start="229" selection-end="229" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/countriesOfAfrica.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="14" selection-start="588" selection-end="588" vertical-scroll-proportion="0.0" vertical-offset="986" max-vertical-offset="1122">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_tags.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2091" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-MostFrequentTag.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="51" selection-start="315" selection-end="315" vertical-scroll-proportion="2.5384614" vertical-offset="202" max-vertical-offset="561" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_PrintTags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="40" selection-start="428" selection-end="428" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="391">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_CalculateInterest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="7" selection-start="1694" selection-end="1709" vertical-scroll-proportion="-16.846153" vertical-offset="514" max-vertical-offset="1054" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_HTMLTagsCounter">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="29" selection-start="346" selection-end="346" vertical-scroll-proportion="9.153846" vertical-offset="459" max-vertical-offset="1088">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/countriesOfAfrica.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="14" selection-start="588" selection-end="588" vertical-scroll-proportion="0.0" vertical-offset="740" max-vertical-offset="1122">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/countriesOfAsia.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="5" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0" vertical-offset="536" max-vertical-offset="867">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/countriesOfEuropa.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="9" selection-start="229" selection-end="229" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/countriesOfNorthAmerica.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="25" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/countriesOfSouthAmerica.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="18" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_CVGenerator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="117" column="40" selection-start="3789" selection-end="3789" vertical-scroll-proportion="11.730769" vertical-offset="2294" max-vertical-offset="4896">
+          <folding>
+            <marker date="1408558535699" expanded="true" signature="4083:4141" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="9172:10111" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="9172:9552" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="9172:9451" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="9172:10220" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="9172:9451" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="9259:9552" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="9259:9451" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="9338:9451" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="9372:9451" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10257:10882" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10257:11010" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10257:10960" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10257:10882" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10257:10880" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10257:10959" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10257:10880" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10257:10880" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10257:10292" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10257:10882" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10341:10782" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10805:10960" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10805:10960" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10805:10959" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10805:10882" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10805:10882" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10805:10882" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10805:10882" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10805:10880" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10805:10880" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10805:10880" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10805:10880" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10805:10838" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10880:10965" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10880:10965" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10880:10965" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10880:10965" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10880:10960" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10880:10960" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10880:10959" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10880:10882" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10880:10882" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10880:10882" placeholder="..." />
+            <marker date="1408558535699" expanded="true" signature="10880:10882" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_ComboBox.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="6" selection-start="1306" selection-end="1306" vertical-scroll-proportion="0.29565218" vertical-offset="459" max-vertical-offset="1819">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
